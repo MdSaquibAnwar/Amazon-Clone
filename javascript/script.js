@@ -1,0 +1,2 @@
+
+alert("welcome to Amazon");
