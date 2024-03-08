@@ -2,22 +2,26 @@
 *{
     padding: 0;
     margin: 0;
+
     box-sizing: border-box;
    
 }
 
 /* nav bar */
-html, body{
+body{
     height: 100%;
-    width: 100vw; 
+    /* width: 100%;  */
+    width: 100vw;
     background-color: rgba(198, 213, 228, 0.779);
-    overflow-x: none;
-    /* width: 100%; */
+    /* overflow-x: none; */
+   
 }
 .nav-bar{
     background-color: rgba(8, 8, 8, 0.974);
     height: 60px;
     display: flex;
+    width: 100vw;
+    
     /* justify-content: space-evenly; */
     align-items: center;
     align-content: center;
